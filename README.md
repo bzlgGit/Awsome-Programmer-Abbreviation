@@ -159,3 +159,6 @@ NoSQL 是对不同于传统的关系数据库的数据库管理系统的统称�
 #### Web服务
 
 根据W3C的定义，Web服务（Web service）应当是一个软件系统，用以支持网络间不同机器的互动操作。网络服务通常是许多应用程序接口（API）所组成的，它们透过网络，例如国际互联网（Internet）的远程服务器端，执行客户所提交服务的请求。
+
+#### APM
+应用性能监控（Application Performance Monitoring）
